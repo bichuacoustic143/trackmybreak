@@ -1,16 +1,7 @@
-<<<<<<< HEAD
-flask
-flask-sqlalchemy
-flask-login
-flask-wtf
-wtforms
-pytz
-=======
-flask
-flask-sqlalchemy
-flask-login
-flask-wtf
-wtforms
-pytz
->>>>>>> 10389dcec0241a7a17289f784cc38076eb471f8b
-gunicorn  # For production server
+Flask==3.0.3
+Flask-SQLAlchemy==3.1.1
+Flask-Login==0.6.3
+Flask-WTF==1.2.1
+Werkzeug==3.0.3
+sqlalchemy==2.0.31
+pytz==2023.4
